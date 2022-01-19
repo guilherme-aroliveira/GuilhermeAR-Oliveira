@@ -7,12 +7,20 @@ I enjoy creating my own web development projects and programming for fun.  I am 
 and I believe that continuous learning is the key to keep in check with the new technologies. I also enjoy playing the guitar and video games. You can find me one 
 instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/linkedin-3-16.png"/> </a> <br>
 
+<a href="https://github.com/GuilhermeAR-Oliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
 <a href="https://github.com/GuilhermeAR-Oliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
+
+<a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=dracula" />
+</a>
+
+<a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=dracula" />
 </a>
 
 ### 🔧 Technologies and Tools
