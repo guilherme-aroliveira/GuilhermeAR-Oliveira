@@ -1,11 +1,11 @@
 <!--<img src="GuilhermeAR-Oliveira/.png" alt="banner that says Guilherme - software engineer, alongside a cartoon illustration of Guilherme"> -->
 
-### Hi, I'm Guilherme <img src="GuilhermeAR-Oliveira/wave.gif" width="20px">
+### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/wave.gif" width="20px">
 
 I'm a software engineer and a DevOps Enginner from Brazil. I'm currently working as a DevOps Enginner in a brazilian startup. 
 I enjoy creating my own web development projects and programming for fun.  I am always looking for new projects and opportunities to develop my skills
 and I believe that continuous learning is the key to keep in check with the new technologies. I also enjoy playing the guitar and video games. You can find me one 
-instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <img src="GuilhermeAR-Oliveira/linkedin-3-16.png"/> </a>
+instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/linkedin-3-16.png"/> </a>
 
 ### 🔧 Technologies and Tools
 
