@@ -9,10 +9,10 @@
   instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/linkedin-3-16.png"/> </a>
 </div>
 
-<div>
+<div align="center">
   <a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
