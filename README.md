@@ -28,10 +28,4 @@ instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guilherme's GitHub Stats" />
 </a>
 
-<a href="https://github.com/GuilhermeAR-Oliveira/una-project1 ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+![Snake animation](https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/output/github-contribution-grid-snake.svg)
