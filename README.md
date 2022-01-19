@@ -1,15 +1,13 @@
 <!--<img src="GuilhermeAR-Oliveira/.png" alt="banner that says Guilherme - software engineer, alongside a cartoon illustration of Guilherme"> -->
 
-### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/wave.gif" width="20px">
-<hr>
+### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/wave.gif" width="20px"> <hr>
 
 I'm a software engineer and a DevOps Enginner from Brazil. I'm currently working as a DevOps Enginner in a brazilian startup. 
 I enjoy creating my own web development projects and programming for fun.  I am always looking for new projects and opportunities to develop my skills
 and I believe that continuous learning is the key to keep in check with the new technologies. I also enjoy playing the guitar and video games. You can find me one 
 instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/linkedin-3-16.png"/> </a>
 
-### 🔧 Technologies and Tools
-<hr>
+### 🔧 Technologies and Tools <hr>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -18,8 +16,7 @@ instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <i
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-### &#x1f4c8; GitHub Stats
-<hr>
+### &#x1f4c8; GitHub Stats <hr>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> -->
 
