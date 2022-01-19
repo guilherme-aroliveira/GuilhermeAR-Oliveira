@@ -7,6 +7,19 @@ I enjoy creating my own web development projects and programming for fun.  I am 
 and I believe that continuous learning is the key to keep in check with the new technologies. I also enjoy playing the guitar and video games. You can find me one 
 instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/linkedin-3-16.png"/> </a>
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&theme=onedarka&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&langs_count=7&theme=onedark"/>
+  </a>
+</div>
+
 ### 🔧 Technologies and Tools <hr>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -15,17 +28,5 @@ instagram and <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/"> <i
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-### &#x1f4c8; GitHub Stats <hr>
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> -->
-
-<a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&hide=text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guilherme's GitHub Stats" />
-</a>
 
 ![Snake animation](https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/output/github-contribution-grid-snake.svg)
