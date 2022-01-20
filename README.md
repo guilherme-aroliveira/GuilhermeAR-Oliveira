@@ -10,7 +10,11 @@ and I believe that continuous learning is the key to keep in check with the new 
 
 ### Get in touch
 
-[![LinkedIn][1.1]][1] | [![Instagram][1.2]][2] | [![Facebook][1.3]][3] | [![Discord][1.4]][4] | [![Outlook][1.5]][5]
+[![LinkedIn][1.1]][1] 
+[![Instagram][1.2]][2] 
+[![Facebook][1.3]][3] 
+[![Discord][1.4]][4] 
+[![Outlook][1.5]][5]
 
   --- 
 
