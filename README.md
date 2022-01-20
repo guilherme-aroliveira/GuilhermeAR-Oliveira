@@ -41,11 +41,15 @@ and I believe that continuous learning is the key to keep in check with the new 
 ### 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-yellow)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-brightgreen)
 ![](https://img.shields.io/badge/Editor-VSCode-blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Atom-brightgreen)
+![](https://img.shields.io/badge/SQL%20Client-Dbeaver-663F1D)
+![](https://img.shields.io/badge/Code-Java-red)
+![](https://img.shields.io/badge/Code-PHP-blue)
+![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/DBMS-MariaDB-663F1D)
+![](https://img.shields.io/badge/Tools-Docker-blue)
 
   ---
 
