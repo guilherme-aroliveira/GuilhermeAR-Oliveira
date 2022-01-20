@@ -40,16 +40,17 @@ and I believe that continuous learning is the key to keep in check with the new 
 
 ### 🔧 Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Linux-yellow)
-![](https://img.shields.io/badge/Shell-Bash-brightgreen)
-![](https://img.shields.io/badge/Editor-VSCode-blue)
-![](https://img.shields.io/badge/Editor-Atom-brightgreen)
-![](https://img.shields.io/badge/SQL%20Client-Dbeaver-663F1D)
-![](https://img.shields.io/badge/Code-Java-red)
-![](https://img.shields.io/badge/Code-PHP-blue)
-![](https://img.shields.io/badge/Code-Python-blue)
-![](https://img.shields.io/badge/DBMS-MariaDB-663F1D)
-![](https://img.shields.io/badge/Tools-Docker-blue)
+![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
+![](https://img.shields.io/badge/Shell-Bash-brightgreen?style=flat)
+![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat)
+![](https://img.shields.io/badge/Editor-Atom-brightgreen?style=flat)
+![](https://img.shields.io/badge/SQL%20Client-Dbeaver-663F1D?style=flat)
+![](https://img.shields.io/badge/Code-Java-red?style=flat)
+![](https://img.shields.io/badge/Code-PHP-blue?style=flat)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat)
+![](https://img.shields.io/badge/DBMS-MariaDB-663F1D?style=flat)
+![](https://img.shields.io/badge/Tools-Docker-blue?style=flat)
+![](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat)
 
   ---
 
