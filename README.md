@@ -1,6 +1,6 @@
 <!--<img src="GuilhermeAR-Oliveira/.png" alt="banner that says Guilherme - software engineer, alongside a cartoon illustration of Guilherme"> -->
 
-### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/images/blob/master/wave.gif" width="20px">
+### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/images/wave.gif" width="20px">
 
 I'm a software engineer and a DevOps Enginner from Brazil. I'm currently working as a DevOps Enginner in a brazilian startup. 
 I enjoy creating my own web development projects and programming for fun.  I am always looking for new projects and opportunities to develop my skills
@@ -26,10 +26,11 @@ and I believe that continuous learning is the key to keep in check with the new 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
 </a>
 
+</br>
+
 <a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=onedark" />
 </a>
-
 
 <a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=onedark" />
