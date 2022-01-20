@@ -28,13 +28,15 @@ and I believe that continuous learning is the key to keep in check with the new 
 
 </br>
 
-<a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=onedark" />
-</a>
+<div>
+  <a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=onedark" />
+  </a>
 
-<a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=onedark" />
-</a>
+  <a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=onedark" />
+  </a>
+</div>
 
  ---
 
