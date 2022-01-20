@@ -8,7 +8,7 @@ and I believe that continuous learning is the key to keep in check with the new 
 You can find me on [![LinkedIn][1.1]][1].
 
 <a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&hide=tex&theme=onedark&langs_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&layout=compact&hide=tex&theme=onedark&langs_count=6" />
 </a>
 <a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
