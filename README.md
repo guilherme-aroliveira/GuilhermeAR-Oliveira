@@ -1,4 +1,4 @@
-<!--<img src="GuilhermeAR-Oliveira/.png" alt="banner that says Guilherme - software engineer, alongside a cartoon illustration of Guilherme"> -->
+[![Header](https://raw.githubusercontent.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/master/images/my_github_banner.png "Header")]
 
 ### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/images/wave.gif" width="20px">
 
@@ -63,6 +63,7 @@ and I believe that continuous learning is the key to keep in check with the new 
 [1.3]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (Facebook Icon)
 [1.4]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white (Discord Icon)
 [1.5]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white (Outlook Icon)
+<!-- Steam, lattes, --> 
 
 
 <!-- Links to your social media accounts -->
