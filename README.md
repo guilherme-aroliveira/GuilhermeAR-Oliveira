@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/master/images/my_github_banner.png "Header")]
+[![Header](https://raw.githubusercontent.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/master/images/my_github_banner.png "Header")]()
 
 ### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/images/wave.gif" width="20px">
 
