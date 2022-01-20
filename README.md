@@ -11,9 +11,9 @@ and I believe that continuous learning is the key to keep in check with the new 
 ### Get in touch
 
 [![LinkedIn][1.1]][1] 
-[![Instagram][1.2]][2] 
-[![Facebook][1.3]][3] 
-[![Discord][1.4]][4] 
+[![Instagram][1.2]][2]
+[![Facebook][1.3]][3]
+[![Discord][1.4]][4]
 [![Outlook][1.5]][5]
 
   --- 
@@ -62,10 +62,10 @@ and I believe that continuous learning is the key to keep in check with the new 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
-[2]: 
-[3]: 
-[4]: 
-[5]: 
+[2]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
+[3]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
+[4]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
+[5]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
 
 
 
