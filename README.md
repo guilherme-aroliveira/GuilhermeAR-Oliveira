@@ -26,9 +26,8 @@ and I believe that continuous learning is the key to keep in check with the new 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
 </a>
 
-</br>
+</br></br>
 
-<div>
   <a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=onedark" />
   </a>
@@ -36,7 +35,6 @@ and I believe that continuous learning is the key to keep in check with the new 
   <a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=onedark" />
   </a>
-</div>
 
  ---
 
