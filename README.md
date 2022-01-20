@@ -8,19 +8,19 @@ and I believe that continuous learning is the key to keep in check with the new 
 You can find me on [![LinkedIn][1.1]][1].
 
 <a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&hide=tex&theme=dracula&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&hide=tex&theme=onedark&langs_count=3" />
 </a>
 <a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Guilherme's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
 </a>
 
 <a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=onedark" />
 </a>
 
 
 <a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=onedark" />
 </a>
 
 ### 🔧 Technologies and Tools
