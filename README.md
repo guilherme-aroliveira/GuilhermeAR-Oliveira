@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/master/images/my_github_banner.png "Header")](https://www.linkedin.com/in/GuilhermeAR-Oliveira/)
+[![Header](https://raw.githubusercontent.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/master/images/my_github_banner.png "Header")](https://www.linkedin.com/in/guilherme-oliveira-86ar/)
 
 ### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/images/wave.gif" width="20px">
 
@@ -68,11 +68,11 @@ and I believe that continuous learning is the key to keep in check with the new 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
-[2]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
-[3]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
-[4]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
-[5]: https://www.linkedin.com/in/GuilhermeAR-Oliveira/
+[1]: https://www.linkedin.com/in/guilherme-oliveira-86ar/
+[2]: https://www.instagram.com/guilherme.ar86/
+[3]: https://www.facebook.com/guilherme.rezende.98
+[4]: https://discord.gg/9xfArBk2
+[5]: mailto:oliveira.g.ar@hotmail.com
 
 
 
