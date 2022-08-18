@@ -2,7 +2,7 @@
 
 ### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/images/wave.gif" width="20px">
 
-I'm a software engineer and a DevOps Enginner from Brazil. I'm currently working as a DevOps Enginner in a brazilian startup. 
+I'm a software engineer and a DevOps Enginner from Brazil. I'm currently working as a DevOps Enginner at Trustly. 
 I enjoy creating my own web development projects and programming for fun.  I am always looking for new projects and opportunities to develop my skills
 and I believe that continuous learning is the key to keep in check with the new technologies. I also enjoy playing the guitar and video games.  
 
