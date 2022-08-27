@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/master/images/my_github_banner.png "Header")](https://www.linkedin.com/in/guilherme-oliveira-86ar/)
+[![Header](https://raw.githubusercontent.com/guilherme-aroliveira/guilherme-aroliveira/main/images/my_github_banner.png "Header")](https://www.linkedin.com/in/guilherme-oliveira-86ar/)
 
-### Hi, I'm Guilherme <img src="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/master/images/wave.gif" width="20px">
+### Hi, I'm Guilherme <img src="https://github.com/guilherme-aroliveira/guilherme-aroliveira/blob/main/images/wave.gif" width="20px">
 
 I'm a software engineer and a DevOps Enginner from Brazil. I'm currently working as a DevOps Enginner at Trustly. 
 I enjoy creating my own web development projects and programming for fun.  I am always looking for new projects and opportunities to develop my skills
@@ -18,22 +18,22 @@ and I believe that continuous learning is the key to keep in check with the new 
 
   --- 
 
-<a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAR-Oliveira&hide=tex&theme=onedark&langs_count=3" />
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&hide=tex&theme=onedark&langs_count=3" />
 </a>
 
-<a href="https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAR-Oliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
 </a>
 
 <p></p>
 
-  <a href="https://github.com/GuilhermeAR-Oliveira/una-project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=una-project1&&theme=onedark" />
+  <a href="https://github.com/guilherme-aroliveira/una-project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=una-project1&&theme=onedark" />
   </a>
 
-  <a href="https://github.com/GuilhermeAR-Oliveira/google-glass">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAR-Oliveira&repo=google-glass&&theme=onedark" />
+  <a href="https://github.com/guilherme-aroliveira/google-glass">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&&theme=onedark" />
   </a>
 
  ---
@@ -54,7 +54,7 @@ and I believe that continuous learning is the key to keep in check with the new 
 
   ---
 
-![Snake animation](https://github.com/GuilhermeAR-Oliveira/GuilhermeAR-Oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilherme-aroliveira/guilherme-aroliveira/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Icons -->
 
