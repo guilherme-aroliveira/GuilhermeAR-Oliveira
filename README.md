@@ -13,8 +13,7 @@ and I believe that continuous learning is the key to keep in check with the new 
 [![LinkedIn][1.1]][1] 
 [![Instagram][1.2]][2]
 [![Facebook][1.3]][3]
-[![Discord][1.4]][4]
-[![Outlook][1.5]][5]
+[![Outlook][1.4]][4]
 
   --- 
 
@@ -61,8 +60,7 @@ and I believe that continuous learning is the key to keep in check with the new 
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon)
 [1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (Instagram Icon)
 [1.3]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (Facebook Icon)
-[1.4]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white (Discord Icon)
-[1.5]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white (Outlook Icon)
+[1.4]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white (Outlook Icon)
 <!-- Steam, lattes, --> 
 
 
@@ -71,8 +69,7 @@ and I believe that continuous learning is the key to keep in check with the new 
 [1]: https://www.linkedin.com/in/guilherme-oliveira-86ar/
 [2]: https://www.instagram.com/guilherme.ar86/
 [3]: https://www.facebook.com/guilherme.rezende.98
-[4]: https://discord.gg/9xfArBk2
-[5]: mailto:oliveira.g.ar@hotmail.com
+[4]: mailto:oliveira.g.ar@hotmail.com
 
 
 
