@@ -48,6 +48,8 @@ HTML                     2 repos             ████████░░░�
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/guilherme-aroliveira/online-resume/pull/1) in [guilherme-aroliveira/online-resume](https://github.com/guilherme-aroliveira/online-resume)
+2. 💪 Opened PR [#1](https://github.com/guilherme-aroliveira/online-resume/pull/1) in [guilherme-aroliveira/online-resume](https://github.com/guilherme-aroliveira/online-resume)
 <!--END_SECTION:activity-->
 </details>
 
