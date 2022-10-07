@@ -8,8 +8,11 @@ I'm currently working in
 
 How to reach me: 
 
-![](https://img.shields.io/badge/LinkedIn-blue?style=flat)
-![](https://img.shields.io/badge/Instagram-red?style=flat)
+[![LinkedIn][1.1]][1] 
+[![Instagram][1.2]][2]
+
+![](https://img.shields.io/badge/LinkedIn-blue?style=flat)[1]
+![](https://img.shields.io/badge/Instagram-red?style=flat)[2]
 
   ---
 
@@ -46,6 +49,15 @@ GitHub Stats
 
   ---
 
+<!-- Icons -->
+
+[1.1]: https://img.shields.io/badge/LinkedIn-blue?style=flat (LinkedIn icon)
+[1.2]: https://img.shields.io/badge/Instagram-red?style=flat (Instagram Icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/guilherme-oliveira-86ar/
+[2]: https://www.instagram.com/guilherme.ar86/
 
 
 
