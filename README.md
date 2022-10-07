@@ -50,9 +50,8 @@ How to reach me:
 
   ---
 
-| 🎵 Now Playing on Spofty                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+🎵 Now Playing on Spofity                                                                                                                
+<a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> 
 
 <!-- Icons -->
 
