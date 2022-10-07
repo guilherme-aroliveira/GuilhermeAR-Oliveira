@@ -33,12 +33,6 @@ How to reach me:
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.
-2.
-3.
-4.
-5.
-<!--END_SECTION:activity-->
 
 </details>
 
