@@ -50,6 +50,10 @@ How to reach me:
 
   ---
 
+| 🎵 Now Playing on Spofty                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
 <!-- Icons -->
 
 [1.1]: https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-oliveira-86ar%2F (LinkedIn icon)
