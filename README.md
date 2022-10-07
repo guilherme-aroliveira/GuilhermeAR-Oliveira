@@ -11,9 +11,6 @@ How to reach me:
 [![LinkedIn][1.1]][1] 
 [![Instagram][1.2]][2]
 
-![](https://img.shields.io/badge/LinkedIn-blue?style=flat)[1]
-![](https://img.shields.io/badge/Instagram-red?style=flat)[2]
-
   ---
 
 Recent GitHub activity
