@@ -50,8 +50,10 @@ How to reach me:
 
   ---
 
-🎵 Now Playing on Spofity                                                                                                                
-<a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> 
+**Now Playing** on Spotify          
+<a href="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing?open">
+  [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://open.spotify.com/user/11163880889)
+</a>                
 
 <!-- Icons -->
 
