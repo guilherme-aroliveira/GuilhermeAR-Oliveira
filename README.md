@@ -48,8 +48,9 @@ GitHub Stats
 
 <!-- Icons -->
 
-[1.1]: https://img.shields.io/badge/LinkedIn-blue?style=flat (LinkedIn icon)
-[1.2]: https://img.shields.io/badge/Instagram-red?style=flat (Instagram Icon)
+[1.1]: https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-oliveira-86ar%2F (LinkedIn icon)
+[1.2]: https://img.shields.io/twitter/url?label=Intagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fguilherme.ar86%2F (Instagram Icon)
+
 
 <!-- Links to your social media accounts -->
 
