@@ -4,9 +4,9 @@
 
 I'm a software engineer and a DevOps Enginner from Brazil. 
 
-I'm currently working in 
+I'm currently working in <a> </a>
 
-How to reach me: 
+📫 How to reach me: 
 
 [![LinkedIn][1.1]][1] 
 [![Instagram][1.2]][2]
