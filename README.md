@@ -29,13 +29,16 @@ How to reach me:
 
   ---
 
+📊 **This Week I Spent My Time On**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  ---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 </details>
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -49,7 +52,6 @@ How to reach me:
 </details>
 
   ---
-
 ### Now Playing on Spotify
 [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)               
 
