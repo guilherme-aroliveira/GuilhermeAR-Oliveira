@@ -50,9 +50,10 @@ How to reach me:
 
   ---
 
-**Now Playing** on Spotify          
+**Now Playing** on Spotify
+
 <a href="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing?open">
-  [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://open.spotify.com/user/11163880889)
+  [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="350" height="64" alt="Now Playing">](https://open.spotify.com/user/11163880889)
 </a>                
 
 <!-- Icons -->
