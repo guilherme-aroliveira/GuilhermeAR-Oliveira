@@ -31,22 +31,6 @@ I'm currently working in <a> </a>
 
 📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 120 Contributions in the Year 2022
- > 
-> 📦 35.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in Java** 
 
 ```text
@@ -56,12 +40,8 @@ HTML                     2 repos             ████████░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/guilherme-aroliveira/guilherme-aroliveira/main/charts/bar_graph.png) 
-
-
- Last Updated on 07/10/2022 22:12:57 UTC
+ Last Updated on 07/10/2022 22:23:32 UTC
 <!--END_SECTION:waka-->
   ---
 
