@@ -38,17 +38,16 @@
   ---
 ## 📊 Github stats
 
-<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&theme=onedark" >
-</a>
+<div align=center>
+  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&theme=onedark" >
+  </a>
 
-<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
-</a>
-
-<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilherme-aroliveira&theme=onedark"/>  
-</a>
+  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+    <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
+  </a>
+</div>
+<br/><br/><br/><br/><br/>
 
   ---
 
