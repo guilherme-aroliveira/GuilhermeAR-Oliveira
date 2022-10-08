@@ -10,18 +10,22 @@
 </div>
 
 <p align="center">
-  
-</p> 
+  <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar/">
+    <img src="https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-oliveira-86ar%2F"/>
+  </a>
 
-[![LinkedIn][1.1]][1] 
-[![Instagram][1.2]][2]
+  <a href="https://www.instagram.com/guilherme.ar86/">
+    <img src="https://img.shields.io/twitter/url?label=Intagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fguilherme.ar86%2F"/>
+  </a>
+</p>
 
 <h5 align="center">
    <i>⚡️⚡️</i>
   </h5>
 
   ---
-  ### 🔧 Languages and Tools
+### 🔧 Languages and Tools
+
 
 ![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
 ![](https://img.shields.io/badge/Shell-Bash-brightgreen?style=flat)
@@ -40,7 +44,7 @@
 
 <div align=center>
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&theme=onedark" >
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&theme=onedark" />
   </a>
 
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
@@ -84,23 +88,4 @@ HTML                     2 repos             ████████░░░�
 
  ### Now Playing on Spotify
 
-[<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)               
-
-<!-- Icons -->
-
-[1.1]: https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-oliveira-86ar%2F (LinkedIn icon)
-[1.2]: https://img.shields.io/twitter/url?label=Intagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fguilherme.ar86%2F (Instagram Icon)
-
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/guilherme-oliveira-86ar/
-[2]: https://www.instagram.com/guilherme.ar86/
-
-
-
-
-
-
-
-
+[<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)
