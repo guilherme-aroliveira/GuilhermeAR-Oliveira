@@ -24,11 +24,15 @@
 ## 📊 Github stats
 
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&hide=tex&theme=onedark&langs_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&hide=tex&theme=onedark&langs_count=3" >
   </a>
 
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+      
   </a>
 
   ---
@@ -48,6 +52,10 @@ HTML                     2 repos             ████████░░░�
  Last Updated on 07/10/2022 22:30:28 UTC
 <!--END_SECTION:waka-->
   ---
+
+## Top Repositories
+
+ ---
 
 ### 🔧 Languages and Tools
 
