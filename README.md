@@ -79,7 +79,7 @@ HTML                     2 repos             ████████░░░�
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&show_owner=true&theme=onedark" />
   </a>
 </div>
-</br></br>
+<br/><br/><br/><br/><br/><br/>
 
   ---
 
