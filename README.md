@@ -32,6 +32,22 @@
 
   ---
 
+  📊 **This Week I Spent My Time On**
+<!--START_SECTION:waka-->
+**I Mostly Code in Java** 
+
+```text
+Java                     4 repos             ████████████████░░░░░░░░░   66.67% 
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+
+
+
+ Last Updated on 07/10/2022 22:30:28 UTC
+<!--END_SECTION:waka-->
+  ---
+
 ### 🔧 Languages and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
@@ -48,26 +64,6 @@
 
   ---
 
-📊 **This Week I Spent My Time On**
-<!--START_SECTION:waka-->
-**I Mostly Code in Java** 
-
-```text
-Java                     4 repos             ████████████████░░░░░░░░░   66.67% 
-HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
-
-```
-
-
-
- Last Updated on 07/10/2022 22:30:28 UTC
-<!--END_SECTION:waka-->
-  ---
-
-  
-
-
-  ---
 ### Now Playing on Spotify
 [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)               
 
