@@ -47,7 +47,7 @@
     <img align="rigth" width=390 src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
   </a>
 </div>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
   ---
 
