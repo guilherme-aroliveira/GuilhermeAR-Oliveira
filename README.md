@@ -55,13 +55,18 @@ HTML                     2 repos             ████████░░░�
 
 ## Top Repositories
 
-<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=una-project1&show_owner=true&theme=onedark" />
-</a>
+<div width="100%" align="center"> 
+  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=una-project1&show_owner=true&theme=onedark" />
+  </a>
 
-<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&show_owner=true&theme=onedark" />
-</a>
+  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&show_owner=true&theme=onedark" />
+  </a>
+</div>
+
+
+
  ---
 
 ### 🔧 Languages and Tools
