@@ -29,12 +29,11 @@
 ### Software and tools
 <p>
   <a href="#">
-    <img alt="Linux" src="https://img.shields.io/twitter/url?color=yellow&label=Linux&logo=Linux&style=social&url=https%3A%2F%2Fwww.linux.org%2F">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux%20Linux-1793D1.svg?/logo=linux&logoColor=white">
   </a>
 </p>
 
 ### Lorem Ipsum
-
 ![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
 ![](https://img.shields.io/badge/Shell-Bash-brightgreen?style=flat)
 ![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat)
