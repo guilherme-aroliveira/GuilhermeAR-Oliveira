@@ -89,7 +89,7 @@
   </a>
   
   <a href="https://wakatime.com/@guilhermeoliveira">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeoliveira&layout=compact&langs_count=6&theme=onedark" alt="Wakatime weekly coding actitvity languages"/> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeoliveira&langs_count=6&theme=onedark" alt="Wakatime weekly coding actitvity languages"/> 
   </a>
 </div>
 <br/>
