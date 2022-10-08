@@ -79,10 +79,12 @@ HTML                     2 repos             ████████░░░�
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&show_owner=true&theme=onedark" />
   </a>
 </div>
+</br></br>
 
- ---
+  ---
 
-### Now Playing on Spotify
+ ### Now Playing on Spotify
+
 [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)               
 
 <!-- Icons -->
