@@ -21,6 +21,7 @@
   </h5>
 
   ---
+## 📊 Github stats
 
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&hide=tex&theme=onedark&langs_count=3" />
