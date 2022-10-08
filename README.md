@@ -21,11 +21,17 @@
 
 <h5 align="center">
    <i>⚡️⚡️</i>
-  </h5>
+</h5>
 
   ---
-### 🔧 Languages and Tools
+## 🛠️ My favorite tools
 
+### Software and tools
+<p>
+  <a href="https://img.shields.io/twitter/url?color=yellow&label=Linux&logo=Linux&style=social&url=https%3A%2F%2Fwww.linux.org%2F"></a>
+</p>
+
+### Lorem Ipsum
 
 ![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
 ![](https://img.shields.io/badge/Shell-Bash-brightgreen?style=flat)
