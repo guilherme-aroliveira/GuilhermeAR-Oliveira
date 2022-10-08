@@ -21,6 +21,21 @@
   </h5>
 
   ---
+  ### 🔧 Languages and Tools
+
+![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
+![](https://img.shields.io/badge/Shell-Bash-brightgreen?style=flat)
+![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat)
+![](https://img.shields.io/badge/Editor-Atom-brightgreen?style=flat)
+![](https://img.shields.io/badge/SQL%20Client-Dbeaver-663F1D?style=flat)
+![](https://img.shields.io/badge/Code-Java-red?style=flat)
+![](https://img.shields.io/badge/Code-PHP-blue?style=flat)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat)
+![](https://img.shields.io/badge/DBMS-MariaDB-663F1D?style=flat)
+![](https://img.shields.io/badge/Tools-Docker-blue?style=flat)
+![](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat)
+
+  ---
 ## 📊 Github stats
 
 <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
@@ -66,22 +81,6 @@ HTML                     2 repos             ████████░░░�
 </div>
 
  ---
-
-### 🔧 Languages and Tools
-
-![](https://img.shields.io/badge/OS-Linux-yellow?style=flat)
-![](https://img.shields.io/badge/Shell-Bash-brightgreen?style=flat)
-![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat)
-![](https://img.shields.io/badge/Editor-Atom-brightgreen?style=flat)
-![](https://img.shields.io/badge/SQL%20Client-Dbeaver-663F1D?style=flat)
-![](https://img.shields.io/badge/Code-Java-red?style=flat)
-![](https://img.shields.io/badge/Code-PHP-blue?style=flat)
-![](https://img.shields.io/badge/Code-Python-blue?style=flat)
-![](https://img.shields.io/badge/DBMS-MariaDB-663F1D?style=flat)
-![](https://img.shields.io/badge/Tools-Docker-blue?style=flat)
-![](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat)
-
-  ---
 
 ### Now Playing on Spotify
 [<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)               
