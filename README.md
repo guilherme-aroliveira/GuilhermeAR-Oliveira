@@ -87,6 +87,10 @@
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="rigth" width=390 src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
   </a>
+  
+  <a href="https://wakatime.com/@guilhermeoliveira">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guilherme-aroliveira&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages"/> 
+  </a>
 </div>
 <br/>
 
