@@ -24,9 +24,8 @@
 ## 📊 Github stats
 
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&hide=tex&theme=onedark&langs_count=3" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact" />
   </a>
-
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
   </a>
