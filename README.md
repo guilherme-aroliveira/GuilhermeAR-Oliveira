@@ -23,16 +23,17 @@
   ---
 ## 📊 Github stats
 
-  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&&theme=onedark" >
-  </a>
-  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
-  </a>
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&layout=compact&theme=onedark" >
+</a>
 
-  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-      
-  </a>
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
+</a>
+
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilherme-aroliveira&theme=onedark"/>  
+</a>
 
   ---
 
@@ -54,6 +55,13 @@ HTML                     2 repos             ████████░░░�
 
 ## Top Repositories
 
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=una-project1&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&show_owner=true&theme=onedark" />
+</a>
  ---
 
 ### 🔧 Languages and Tools
