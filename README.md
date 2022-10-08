@@ -1,15 +1,24 @@
 [![Header](https://raw.githubusercontent.com/guilherme-aroliveira/guilherme-aroliveira/main/images/my_github_banner.png "Header")](https://www.linkedin.com/in/guilherme-oliveira-86ar/)
 
-### Hi, I'm Guilherme <img src="https://github.com/guilherme-aroliveira/guilherme-aroliveira/blob/main/images/wave.gif" width="20px">
+<h3 align="center">
+    Welcome to Guilherme Oliveira's profile!
+  <img src="https://github.com/guilherme-aroliveira/guilherme-aroliveira/blob/main/images/wave.gif" width="28">
+</h3>
 
-I'm a software engineer and a DevOps Enginner from Brazil. 
+<div align="center">
+  <h3> Guilherme Oliveira | 💻 DevOps Enginner | Brazil </h3>
+</div>
 
-I'm currently working in <a> </a>
-
-📫 How to reach me: 
+<p align="center">
+  
+</p> 
 
 [![LinkedIn][1.1]][1] 
 [![Instagram][1.2]][2]
+
+<h5 align="center">
+   <i>⚡️⚡️</i>
+  </h5>
 
   ---
 
@@ -45,18 +54,6 @@ HTML                     2 repos             ████████░░░�
 <!--END_SECTION:waka-->
   ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/guilherme-aroliveira/online-resume/pull/1) in [guilherme-aroliveira/online-resume](https://github.com/guilherme-aroliveira/online-resume)
-2. 💪 Opened PR [#1](https://github.com/guilherme-aroliveira/online-resume/pull/1) in [guilherme-aroliveira/online-resume](https://github.com/guilherme-aroliveira/online-resume)
-<!--END_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/guilherme-aroliveira/online-resume/pull/1) in [guilherme-aroliveira/online-resume](https://github.com/guilherme-aroliveira/online-resume)
-2. 💪 Opened PR [#1](https://github.com/guilherme-aroliveira/online-resume/pull/1) in [guilherme-aroliveira/online-resume](https://github.com/guilherme-aroliveira/online-resume)
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-aroliveira&hide=tex&theme=onedark&langs_count=3" />
   </a>
@@ -64,7 +61,7 @@ HTML                     2 repos             ████████░░░�
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
   </a>
-</details>
+
 
   ---
 ### Now Playing on Spotify
