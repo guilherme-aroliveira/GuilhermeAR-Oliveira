@@ -29,7 +29,7 @@
 ### Software and tools
 <p>
   <a href="#">
-    <img href="https://img.shields.io/twitter/url?color=yellow&label=Linux&logo=Linux&style=social&url=https%3A%2F%2Fwww.linux.org%2F">
+    <img alt="Linux" src="https://img.shields.io/twitter/url?color=yellow&label=Linux&logo=Linux&style=social&url=https%3A%2F%2Fwww.linux.org%2F">
   </a>
 </p>
 
