@@ -40,6 +40,7 @@
   <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white">
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
   <img alt="Gimp" src="https://img.shields.io/badge/-Gimp-FFFFFF.svg?logo=gimp&logoColor=grey"/> 
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-FFFFFF.svg?logo=terraform&logoColor=purple"/>
   <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-FFFFFF.svg?logo=vagrant&logoColor=blue"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-FFFFFF.svg?logo=docker&logoColor=blue"/>
@@ -54,7 +55,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </p>
 
 ### 🗄️ Databases and Cloud Technologies
@@ -86,10 +86,6 @@
 
   <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
     <img align="rigth" width=390 src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
-  </a>
-  
-  <a href="https://wakatime.com/@guilhermeoliveira">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeoliveira&langs_count=6&theme=onedark" alt="Wakatime weekly coding actitvity languages"/> 
   </a>
 </div>
 <br/>
@@ -129,18 +125,6 @@ HTML                     2 repos             ████████░░░�
 
  Last Updated on 06/11/2022 18:45:31 UTC
 <!--END_SECTION:waka-->
-  ---
-
-## Top Repositories
- 
-  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=una-project1&show_owner=true&theme=onedark" />
-  </a>
-
-  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilherme-aroliveira&repo=google-glass&show_owner=true&theme=onedark" />
-  </a>
-
   ---
 
  ### Now Playing on Spotify
