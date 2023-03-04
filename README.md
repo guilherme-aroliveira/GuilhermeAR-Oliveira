@@ -74,16 +74,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-FFFFFF.svg?logo=notion&logoColor=black">
-</p>    
-
-  ---
-## 📊 Github stats
-
-  <a href="https://github.com/guilherme-aroliveira/guilherme-aroliveira">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=guilherme-aroliveira&show_icons=true&line_height=27&count_private=true&theme=onedark" alt="Guilherme's GitHub Stats" />
-  </a>
-</div>
-<br/>
+</p>
 
   ---
 
