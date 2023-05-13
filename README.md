@@ -1,5 +1,3 @@
-### [![Header](https://raw.githubusercontent.com/guilherme-aroliveira/guilherme-aroliveira/main/images/my_github_banner.png "Header")](https://www.linkedin.com/in/guilherme-oliveira-86ar/)
-
 <h3 align="center">
     Welcome to Guilherme Oliveira's profile!
   <img src="https://github.com/guilherme-aroliveira/guilherme-aroliveira/blob/main/images/wave.gif" width="28">
