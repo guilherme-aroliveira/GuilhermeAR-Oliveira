@@ -4,7 +4,7 @@
 </h3>
 
 <div align="center">
-  <h3> Guilherme Oliveira | 💻 Operations Enginner | Brazil </h3>
+  <h3> Guilherme Oliveira | 💻 Software/Operations Enginner | Brazil </h3>
 </div>
 
 <p align="center">
