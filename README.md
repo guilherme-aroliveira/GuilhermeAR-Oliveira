@@ -93,18 +93,16 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Docker                   1 min               ████████████████████████░   97.75 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-una-library-project      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -120,7 +118,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2023 18:32:23 UTC
+ Last Updated on 20/06/2023 18:31:52 UTC
 <!--END_SECTION:waka-->
   ---
 
