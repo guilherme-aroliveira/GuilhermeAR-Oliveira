@@ -93,16 +93,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      8 mins              █████████████████████████   99.54 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             8 mins              █████████████████████████   99.54 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cursoPHP                 8 mins              █████████████████████████   99.54 % 
+una-restaurant-project   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -118,7 +121,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2023 18:35:58 UTC
+ Last Updated on 26/06/2023 18:37:18 UTC
 <!--END_SECTION:waka-->
   ---
 
