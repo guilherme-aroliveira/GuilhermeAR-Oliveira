@@ -17,10 +17,6 @@
   </a>
 </p>
 
-<h5 align="center">
-   <i>⚡️⚡️</i>
-</h5>
-
   ---
 ## 🛠️ My favorite tools
 
@@ -65,7 +61,7 @@
   <img alt="DynamoBB" src ="https://img.shields.io/badge/DynamoDB-FFFFFF.svg?logo=amazondynamodb&logoColor=blue">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
-  <img alt="Azure Devops" src="https://img.shields.io/badge/Azure-FFFFFF.svg?logo=azuredevops&logoColor=blue">
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure-FFFFFF.svg?logo=azuredevops&logoColor=blue">
   <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-FFFFFF.svg?logo=bamboo&logoColor=blue">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-327FC7.svg?logo=github&logoColor=white">
   <img alt="Bitbucket" src="https://img.shields.io/badge/BitBucket-FFFFFF.svg?logo=bitbucket&logoColor=blue">
@@ -119,7 +115,3 @@ HCL                      1 repo              ██████░░░░░�
  Last Updated on 04/09/2023 18:32:33 UTC
 <!--END_SECTION:waka-->
   ---
-
- ### Now Playing on Spotify
-
-[<img src="https://natemoo-re-guilherme-aroliveira.vercel.app/now-playing" width="450" height="65" alt="Spotify Playing"/>](https://open.spotify.com/user/11163880889)
